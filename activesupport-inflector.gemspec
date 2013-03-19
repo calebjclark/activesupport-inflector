@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |gem|
   gem.name        = 'activesupport-inflector'
-  gem.version     = '0.0.1'
+  gem.version     = '0.0.2'
   gem.date        = '2012-10-19'
   gem.summary     = %q{Only the Inflector part of ActiveRecord.}
   gem.authors     = ['Caleb Clark']
